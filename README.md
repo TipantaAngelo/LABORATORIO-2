@@ -10,10 +10,6 @@
     •	Interpretar el efecto de las señales de corriente y voltaje directo sobre los componentes resistivos.
         
     •	Comparar el comportamiento del circuito escalera con corriente directa
-        
-    •	
-        
-    •	
 
 2. MARCO TEORICO
 
