@@ -3,13 +3,13 @@
 
     1.1 OBJETIVOS PRINCIPAL
 
-    •	
-    
+    •	Observar y analizar el comportamiento de los circuitos resistivos alimentados con corriente directa
+       
      1.2 OBJETIVO ESPECIFICO
      
-    •	
+    •	Interpretar el efecto de las señales de corriente y voltaje directo sobre los componentes resistivos.
         
-    •	
+    •	Comparar el comportamiento del circuito escalera con corriente directa
         
     •	
         
@@ -25,11 +25,8 @@
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
     
-    ![image](https://user-images.githubusercontent.com/116808294/212772731-1da83d82-0211-40ff-a219-9f5b21442869.png)
-
-4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
-
-    1
+    ![image](https://user-images.githubusercontent.com/116808294/212898218-aa1b190b-ee00-4655-a4f5-a5f9974c41f3.png)
+   
 
 5. VIDEO
 
