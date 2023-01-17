@@ -45,6 +45,8 @@
     
     • Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación.
     
-    • 
+    • Paz, O. (1990). Corriente alterna. Siglo XXI.
     
-    • 
+    • Nilsson, J. W., Riedel, S. A., Cázares, G. N., & Fernández, A. S. (1995). Circuitos eléctricos. Addison-Wesley.
+    
+    • Felipe, R., & Reyes, N. L. (2013). Integrabilidad de un sistema con doble conmutador.
